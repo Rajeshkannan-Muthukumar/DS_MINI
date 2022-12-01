@@ -1,4 +1,4 @@
-# D_MINI_PROJECT
+# DS_MINI_PROJECT
 ## Aim 
 To Perform Data Visualization on IMDB dataset and save the data to a file.
 
